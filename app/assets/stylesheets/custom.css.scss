@@ -142,11 +142,13 @@ aside {
 
 /* forms */
 
-input, textarea, select, .uneditable-input {
+input, textarea, select .uneditable-input {
 	border: 1px solid #bbb;
-	width: 100%;
+	padding: 15px bold;
+	width: 50%;
 	margin-bottom: 15px;
-	margin-left: 10px;
+	 max-width: 330px;
+	
 	@include box_sizing;
 	
 }
