@@ -12,3 +12,9 @@ Enjoy;)
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
+
+Heroku[*Heroku Live App*](https://sampleapp-ror-tut.herokuapp.com)
+
+Admin login:
+email: admin@railstutorial.org
+password: foobar
