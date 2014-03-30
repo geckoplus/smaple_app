@@ -15,7 +15,7 @@ This is the sample application created by my to learn Ruby on Rails
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
-Heroku [*Heroku Live App*](https://sampleapp-ror-tut.herokuapp.com)
+Heroku [*Heroku Live App*](https://micro-blogging.herokuapp.com/)
 
 Admin login:
 email: admin@railstutorial.org
