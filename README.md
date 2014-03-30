@@ -1,6 +1,6 @@
 == README
 
-Micro Blog app is the main app for RoR tutorial. 
+Micro Blogging app is the main app for RoR tutorial. 
 This app is created to learn basics RoR as RSpec testing, and manual app building without using the scaffold.
 
 I followed tutorial by Michael Hartl and make some modification to it. 

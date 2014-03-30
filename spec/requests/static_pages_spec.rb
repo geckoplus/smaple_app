@@ -6,7 +6,7 @@ describe "StaticPages" do
 	describe "Home page" do    #HOME
 		before { visit root_path }
 
-		it { should have_content('Sample App') }
+		it { should have_content('Micro Blogging app') }
 		it { should have_title(full_title('')) }
 		it { should_not have_title('| Home') }
 
